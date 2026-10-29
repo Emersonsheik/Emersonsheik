@@ -1,4 +1,4 @@
-# Olá, eu sou o Emerson 👋
+# Olá, eu sou o Emerson 
 
 **Dev Full-Stack · Estudante de Análise e Desenvolvimento de Sistemas · RJ**
 
